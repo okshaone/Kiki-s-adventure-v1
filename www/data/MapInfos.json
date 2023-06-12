@@ -1,0 +1,17 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Intro","order":1,"parentId":0,"scrollX":1092,"scrollY":638},
+{"id":2,"expanded":false,"name":"Company","order":2,"parentId":0,"scrollX":1092,"scrollY":638},
+{"id":3,"expanded":true,"name":"City","order":3,"parentId":0,"scrollX":1092,"scrollY":638},
+{"id":4,"expanded":false,"name":"Bus","order":4,"parentId":0,"scrollX":1092,"scrollY":638},
+{"id":5,"expanded":false,"name":"Road to Emerald village","order":5,"parentId":0,"scrollX":2144,"scrollY":1166},
+{"id":6,"expanded":true,"name":"Emerald village","order":6,"parentId":0,"scrollX":2457,"scrollY":1435.5},
+{"id":7,"expanded":false,"name":"Kiki's tent","order":7,"parentId":6,"scrollX":2457,"scrollY":1435.5},
+{"id":8,"expanded":true,"name":"Emerald Shrine","order":8,"parentId":6,"scrollX":655.2,"scrollY":382.8},
+{"id":9,"expanded":false,"name":"Dark Cave 1","order":9,"parentId":8,"scrollX":2433,"scrollY":2167.5},
+{"id":10,"expanded":false,"name":"Dark Cave 2","order":10,"parentId":8,"scrollX":2457,"scrollY":1435.5},
+{"id":11,"expanded":false,"name":"Dark Cave 3","order":11,"parentId":8,"scrollX":2433,"scrollY":1588.5},
+{"id":12,"expanded":false,"name":"Dark Cave 4","order":12,"parentId":8,"scrollX":2433,"scrollY":1690.5},
+{"id":13,"expanded":false,"name":"Dark Cave 5","order":13,"parentId":8,"scrollX":2457,"scrollY":1435.5},
+{"id":14,"expanded":false,"name":"Dark Cave 6","order":14,"parentId":8,"scrollX":2780.5714285714284,"scrollY":1959.4285714285713}
+]
